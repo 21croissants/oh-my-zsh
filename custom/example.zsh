@@ -3,3 +3,7 @@
 #
 # brainstormr=/Users/robbyrussell/Projects/development/planetargon/brainstormr
 #
+
+function p1() { 
+	terminitor start $1
+}
